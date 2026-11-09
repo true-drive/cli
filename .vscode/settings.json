@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "truedrive.h": "c",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "string.h": "c"
+  }
+}

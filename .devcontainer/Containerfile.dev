@@ -1,0 +1,6 @@
+FROM alpine:latest
+
+RUN apk add --no-cache bash build-base cmake ffmpeg gdb git
+WORKDIR /app
+
+CMD ["/bin/sh"]

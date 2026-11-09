@@ -1,0 +1,5 @@
+# Build output
+build/
+
+# Scratch files for manual testing
+test/
