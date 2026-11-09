@@ -1,0 +1,7 @@
+# Only what the production image compiles, which leaves out local builds and test videos
+*
+!CMakeLists.txt
+!src
+!modules/core/CMakeLists.txt
+!modules/core/include
+!modules/core/src
