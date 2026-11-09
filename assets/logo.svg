@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t">
+  <title id="t">True Drive</title>
+  <defs>
+    <clipPath id="frame"><rect x="16" y="16" width="224" height="224" rx="32"/></clipPath>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#0b0b0b"/>
+  <g clip-path="url(#frame)">
+    <path fill="#f5f5f5" d="M16 16h28v28h-28zM100 16h28v28h-28zM184 16h28v28h-28zM72 44h28v28h-28zM100 44h28v28h-28zM128 44h28v28h-28zM212 44h28v28h-28zM128 72h28v28h-28zM156 72h28v28h-28zM212 72h28v28h-28zM16 100h28v28h-28zM44 100h28v28h-28zM72 100h28v28h-28zM100 100h28v28h-28zM128 100h28v28h-28zM16 128h28v28h-28zM72 128h28v28h-28zM100 128h28v28h-28zM16 156h28v28h-28zM44 156h28v28h-28zM72 156h28v28h-28zM100 156h28v28h-28zM156 156h28v28h-28zM212 156h28v28h-28zM72 184h28v28h-28zM100 184h28v28h-28zM156 184h28v28h-28zM212 184h28v28h-28zM16 212h28v28h-28zM100 212h28v28h-28zM128 212h28v28h-28zM156 212h28v28h-28z"/>
+  </g>
+  <circle cx="128" cy="128" r="50" fill="#0b0b0b" stroke="#f5f5f5" stroke-width="6"/>
+  <path fill="#f5f5f5" stroke="#f5f5f5" stroke-width="8" stroke-linejoin="round" d="M116 106v44l38-22z"/>
+</svg>

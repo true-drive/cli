@@ -1,4 +1,8 @@
-# True Drive CLI
+<p align="center">
+  <img src="assets/logo.svg" alt="True Drive logo" width="160">
+</p>
+
+<h1 align="center">True Drive CLI</h1>
 
 True Drive stores files as noise videos, so that any platform that hosts video can double as file storage. This is its command-line tool: it encodes files to video and decodes them back, using the [True Drive Core](https://github.com/true-drive/core) library.
 
@@ -12,7 +16,7 @@ True Drive stores files as noise videos, so that any platform that hosts video c
 
 ## Build
 
-The core library is a git submodule in `core/`, so fetch it first:
+The core library is a git submodule in `modules/core/`, so fetch it first:
 
 ```sh
 git submodule update --init

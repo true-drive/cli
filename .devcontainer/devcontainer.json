@@ -6,7 +6,7 @@
   },
   "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind",
   "workspaceFolder": "/app",
-  "postCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && git config --global --add safe.directory ${containerWorkspaceFolder}/core",
+  "postCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && git config --global --add safe.directory ${containerWorkspaceFolder}/modules/core",
   "customizations": {
     "vscode": {
       "extensions": ["ms-vscode.cpptools"],
